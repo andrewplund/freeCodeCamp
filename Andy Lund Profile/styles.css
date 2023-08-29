@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+  margin: 0;
+}
+
+#welcome_section {
+  text-align: left;
+}
+html {
+  min-height: 100%;
+  background-image: url(./images.jpg/Desert-Safari-over-Sunset-and-Beach.jpg);
+  background-size: cover;
+}
+.main_head {
+  font-size: 120px;
+  color: white;
+}
+#projects {
+  text-decoration: underline;
+}
